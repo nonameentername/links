@@ -635,3 +635,10 @@
 	--button-background:#0B5CFF;
   --button-border:1px solid #FFFFFF;
 }
+
+/* TecunHuman */
+.button-tecunhuman {
+    --button-text: #00fffd;
+    --button-background: #002b36;
+    --button-border: 1px solid #FFFFFF;
+}
